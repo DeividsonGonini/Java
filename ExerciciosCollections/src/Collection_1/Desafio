@@ -1,0 +1,5 @@
+1- Implemente uma classe chamada Telefone. A classe tem nrTelefone: String
+e tipoTelefone: int {0=residencial,1=comercial,2=celular}. Faça um programa que leia
+os números do telefone. Ao finalizar salve os telefones (arraylist) em um arquivo. Ao
+executar o programa faça a leitura do arquivo e carregue a lista de telefones para a
+visualização.
